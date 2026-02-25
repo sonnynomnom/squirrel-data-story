@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Outputs and data (change if you want to include CSV in repo)
+outputs/
+# If your CSV is small and you want to include it, comment this line:
+# data/
+
+# Byte-compiled / build
+build/
+dist/
